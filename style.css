@@ -1,1 +1,22 @@
-/* nothing here */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
+
+
+
+body {
+
+    line-height: 1;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    margin-top: 200px;
+
+}
+
+a {
+    background-color: #de4057;
+    padding: 15px;
+    border-radius: 30px;
+    color: #FFF;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 50px;
+}
